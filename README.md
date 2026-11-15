@@ -1,2 +1,2 @@
 # skills-copilot-codespaces-vscode
-My clone repository copilot practice
+This repository is for GitHub Copilot tutorial practice.
